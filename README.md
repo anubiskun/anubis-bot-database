@@ -59,7 +59,7 @@ rm -rf .git
 heroku login
 ```
 ```bash
-heroku create server-bot-whatsapp
+heroku create database-bot-whatsapp
 ```
 ```bash
 git init
@@ -68,7 +68,7 @@ git init
 git add .
 ```
 ```bash
-git commit -am "first commit for JSON-SERVER-WA-BOT"
+git commit -am "first commit for JSON-DATABASE-WA-BOT"
 ```
 ```bash
 git push heroku master
