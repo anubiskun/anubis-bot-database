@@ -1,0 +1,118 @@
+{
+  "users": {
+    "6289653909054@s.whatsapp.net": {
+      "exp": 9909899253,
+      "limit": 999999985368,
+      "lastclaim": 1641643228291,
+      "registered": true,
+      "name": "anubis",
+      "age": 21,
+      "regTime": 1640908155407,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 1641785261508,
+      "level": 2023,
+      "role": "GOD of The GOD",
+      "autolevelup": true,
+      "warning": 0
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1641577232538,
+      "lastSuccess": 1641577232538
+    },
+    "levelup.js": {
+      "total": 15,
+      "success": 15,
+      "last": 1641577871435,
+      "lastSuccess": 1641577871435
+    },
+    "profile.js": {
+      "total": 25,
+      "success": 22,
+      "last": 1641577416128,
+      "lastSuccess": 1641577416128
+    },
+    "enable.js": {
+      "total": 6,
+      "success": 5,
+      "last": 1641362376716,
+      "lastSuccess": 1641362376716
+    },
+    "addprem.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1641358000815,
+      "lastSuccess": 1641358000815
+    },
+    "darkjoke.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1641360675697,
+      "lastSuccess": 1641360675697
+    },
+    "speed.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1641377668978,
+      "lastSuccess": 1641377668978
+    },
+    "donasi.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1641372657991,
+      "lastSuccess": 1641372657991
+    },
+    "ping.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1641377381356,
+      "lastSuccess": 1641377381356
+    }
+  },
+  "msgs": {
+    "uwu": {
+      "key": {
+        "remoteJid": "120363021555155575@g.us",
+        "fromMe": true,
+        "id": "3EB0F0319722"
+      },
+      "message": {
+        "audioMessage": {
+          "url": "https://mmg.whatsapp.net/d/f/Aug1vky-GjeGW26DAccaJt4vSYi5SpXI0bU4aONAYFFd.enc",
+          "mimetype": "audio/ogg; codecs=opus",
+          "fileSha256": "tiwEGAfzOR53Elf11qqNNQCsi1mLMges3o3mQRJwAS0=",
+          "fileLength": "4039",
+          "seconds": 1,
+          "ptt": true,
+          "mediaKey": "VHlcyXliNPsp0xsmSSvwfV875PYCMPpgcRDu5YLFbWE=",
+          "fileEncSha256": "iN/Pk63ryEGiVAfwngLIt1Ks9e8RNhfBoa43HDcdR48="
+        }
+      },
+      "messageTimestamp": "1640427172",
+      "status": "SERVER_ACK",
+      "participant": "6281282091206@s.whatsapp.net",
+      "messageC2STimestamp": "1640427179",
+      "mediaData": {
+        "localPath": "Media/WhatsApp Voice Notes/202151/PTT-20211218-WA0041.opus"
+      }
+    }
+  },
+  "sticker": {},
+  "settings": {
+    "6289653909054@s.whatsapp.net": {
+      "anticall": false,
+      "autoread": false,
+      "nyimak": false,
+      "restrict": false,
+      "self": false,
+      "pconly": false,
+      "gconly": false,
+      "jadibot": true
+    }
+  }
+}

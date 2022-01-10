@@ -1,0 +1,25 @@
+{
+  "name": "anubis-json-server",
+  "version": "1.1.0",
+  "description": "Simple json database to deploy By Anubiskun.xyz",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anubiskun/anubis-json-server.git"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API, Bot Whatsapp, baileys, anubis"
+  ],
+  "author": "anubiskun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anubiskun/anubis-json-server/issues"
+  },
+  "homepage": "https://github.com/anubiskun/anubiswa-bot",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
